@@ -21,6 +21,7 @@ else:
         'include/pybind11/descr.h',
         'include/pybind11/eigen.h',
         'include/pybind11/eval.h',
+        'include/pybind11/factory.h',
         'include/pybind11/functional.h',
         'include/pybind11/numpy.h',
         'include/pybind11/operators.h',
